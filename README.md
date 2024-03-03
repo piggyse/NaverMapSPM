@@ -6,5 +6,5 @@
 
 ## Installation
 ```swift
-  .package(url: "https://github.com/navermaps/ios-map-sdk", branch: "main")
+    .package(url: "https://github.com/piggyse/NaverMapSPM", branch: "main")
 ```
