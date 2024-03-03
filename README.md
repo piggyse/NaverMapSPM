@@ -8,3 +8,7 @@
 ```swift
     .package(url: "https://github.com/piggyse/NaverMapSPM", branch: "main")
 ```
+
+```swift
+    .product(name: "NMapsMap", package: "NaverMapSPM")
+```
