@@ -3,3 +3,8 @@
 
 ## Resource
 [naver map sdk pod spec](https://github.com/CocoaPods/Specs/blob/master/Specs/8/a/6/NMapsMap/3.16.2/NMapsMap.podspec.json)을 기준으로 생성
+
+## Installation
+```swift
+  .package(url: "https://github.com/navermaps/ios-map-sdk", branch: "main")
+```
